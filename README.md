@@ -28,5 +28,3 @@
 <img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Node.js" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="padding-right:10px;" />
-
-<img align="left" alt="Heroku" width="26px" src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="padding-right:10px;" />
