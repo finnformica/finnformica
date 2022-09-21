@@ -6,8 +6,8 @@
 
 - 👨‍💻 During summer of 2022 I was working at Jupiter Asset Management as a Data Engineer.
 - 🧗 I’m active at the bouldering gym and working on learning how to lead climb.
-- 🚀 In 2023 I want to achieve a First Class Honors in my MSc.
 - 📙 I have a Mechanical and Electrical Engineering BEng and am studying FinTech with Data Science MSc.
+- 🚀 In 2023 I want to achieve a First Class Honors in my MSc.
 
 <br/>
 
