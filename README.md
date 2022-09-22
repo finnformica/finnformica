@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;My+name+is+Finn;Nice+to+meet+you!&center=true&size=30">
 
-## I'm a Data Science student and aspiring Software Engineer
+## I'm an aspiring Software Engineer and Data Science student
 
 - 👨‍💻 During summer of 2022 I was working at Jupiter Asset Management as a Data Engineer.
 - 🧗 I’m active at the bouldering gym and working on learning how to lead climb.
