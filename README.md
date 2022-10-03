@@ -7,7 +7,7 @@
 - 👨‍💻 During summer of 2022 I was working at Jupiter Asset Management as a Data Engineer.
 - 🧗 I’m active at the bouldering gym and working on learning how to lead climb.
 - 📙 I have a Mechanical and Electrical Engineering BEng and am studying FinTech with Data Science MSc.
-- 🚀 In 2023 I want to achieve a First Class Honors in my MSc.
+- 🚀 In 2023 I want to become AWS certified.
 
 <br/>
 
@@ -28,3 +28,7 @@
 <img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Node.js" width="26px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" style="padding-right:10px;" />
+
+<img align="left" alt="AWS" width="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Snowflake" width="26px" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" style="padding-right:10px;" />
