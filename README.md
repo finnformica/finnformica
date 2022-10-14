@@ -1,5 +1,7 @@
 # Hi there 😎
 
+<br/>
+
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;My+name+is+Finn;Nice+to+meet+you!&center=true&size=30">
 
 ## I'm an aspiring Software Engineer and Data Science student
