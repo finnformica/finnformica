@@ -32,3 +32,18 @@
 <img align="left" alt="AWS" width="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Snowflake" width="26px" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" style="padding-right:10px;" />
+
+<br/>
+<hr/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=finnformica&
+theme=tokyonight&
+hide_border=True&
+show_icons=true&
+&count_private=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?
+username=finnformica&
+theme=tokyonight&
+hide_border=True&
+layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
