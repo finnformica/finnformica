@@ -36,4 +36,9 @@
 <br/>
 <hr/>
 
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=finnformica&theme=tokyonight&hide_border=True&show_icons=true&count_private=true&hide_rank=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=finnformica&theme=tokyonight&hide_border=True&layout=compact&hide=html,motoko&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=finnformica&theme=tokyonight&hide_border=True&show_icons=true&count_private=true&hide_rank=true&hide=issues,contribs" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=finnformica&theme=tokyonight&hide_border=True&layout=compact&hide=html,motoko&langs_count=6" /></a> |
+| ------------- | ------------- |
