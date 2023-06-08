@@ -6,18 +6,10 @@
 
 ## I'm an aspiring Software Engineer and Data Science student
 
-- 👨‍💻 I'm working part-time as a Quant Engineer at Carbon, an InsurTech start-up.
+- 👨‍💻 I'm working part-time as a Quant Engineer at Carbon UW.
 - 📙 I have a Mechanical and Electrical Engineering BEng and am studying FinTech with Data Science MSc.
 - 🚀 In 2023 I want to become AWS certified.
 
-<br/>
-
-### Personal Website
-
-<a href="https://www.finnformica.com/">
-  <img align="left" alt="Logo" width="42px" src="https://www.finnformica.com/favicon.png" style="padding-right:10px;" /></a>
-  
-<br/>
 <br/>
 
 ### Languages and Tools
