@@ -6,8 +6,7 @@
 
 ## I'm an aspiring Software Engineer and Data Science student
 
-- 👨‍💻 Currently I work part-time as a Quant Engineer at Carbon UW, an InsurTech start-up.
-- 🧗 I’m active at the bouldering gym and working on learning how to lead climb.
+- 👨‍💻 I'm working part-time as a Quant Engineer at Carbon, an InsurTech start-up.
 - 📙 I have a Mechanical and Electrical Engineering BEng and am studying FinTech with Data Science MSc.
 - 🚀 In 2023 I want to become AWS certified.
 
@@ -23,11 +22,7 @@
 
 ### Languages and Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="Git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="padding-right:10px;" />
-
-<img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" style="padding-right:10px;" />
 
 <img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="padding-right:10px;" />
 
