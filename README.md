@@ -6,11 +6,19 @@
 
 ## I'm an aspiring Software Engineer and Data Science student
 
-- 👨‍💻 During summer of 2022 I was working at Jupiter Asset Management as a Data Engineer.
+- 👨‍💻 Currently I work part-time as a Quant Engineer at Carbon UW, an InsurTech start-up.
 - 🧗 I’m active at the bouldering gym and working on learning how to lead climb.
 - 📙 I have a Mechanical and Electrical Engineering BEng and am studying FinTech with Data Science MSc.
 - 🚀 In 2023 I want to become AWS certified.
 
+<br/>
+
+### Personal Website
+
+<a href="https://www.finnformica.com/">
+  <img align="left" alt="Logo" width="42px" src="https://www.finnformica.com/favicon.png" style="padding-right:10px;" /></a>
+  
+<br/>
 <br/>
 
 ### Languages and Tools
@@ -23,9 +31,9 @@
 
 <img align="left" alt="Python" width="26px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" style="padding-right:10px;" />
 
-<img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" style="padding-right:10px;" />
 
-<img align="left" alt="JavaScript" width="26px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="padding-right:10px;" />
 
 <img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="padding-right:10px;" />
 
@@ -33,7 +41,11 @@
 
 <img align="left" alt="AWS" width="26px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Snowflake" width="26px" src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" style="padding-right:10px;" />
+<img align="left" alt="GCP" width="26px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Docker" width="26px" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" style="padding-right:10px;" />
+
+<img align="left" alt="Airflow" width="26px" src="https://upload.vectorlogo.zone/logos/apache_airflow/images/9c14446f-4cdc-4b19-9290-c753fc20fb2a.svg" style="padding-right:10px;" />
 
 <br/>
 <hr/>
