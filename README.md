@@ -6,9 +6,9 @@
 
 ## I'm an aspiring Software Engineer and Data Science student
 
-- 👨‍💻 I'm working part-time as a Full-Stack Engineer at Carbon UW.
-- 📙 I have a Mechanical and Electrical Engineering BEng and am studying FinTech with Data Science MSc.
-- 🚀 In 2023 I want to become AWS certified.
+- 🧪 I'm working part-time as a Full-Stack Engineer at Carbon UW.
+- 📘 My MSc thesis uses Verifiable Credentials to provide unlinkable use of third party services.
+- 🌱 In 2023 I want to become AWS certified.
 
 <br/>
 
