@@ -4,11 +4,11 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome!+👋;My+name+is+Finn;Nice+to+meet+you!&center=true&size=30">
 
-## I'm an aspiring Software Engineer and Data Science student
+## I'm a Software Engineer and recent Data Science graduate
 
-- 🧪 I'm working part-time as a Full-Stack Engineer at Carbon UW.
-- 📘 My MSc thesis uses Verifiable Credentials to provide unlinkable use of third party services.
-- 🌱 In 2023 I want to become AWS certified.
+- 🧪 I'm working as a Software Engineer at Carbon UW.
+- 📘 My MSc thesis uses Verifiable Credentials to provide unlinkable use of ChatGPT.
+- 🌱 In 2023/24 I want to become AWS and GCP certified.
 
 <br/>
 
